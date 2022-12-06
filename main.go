@@ -8,6 +8,6 @@ import (
 func main() {
 	fmt.Println("git test")
 	fmt.Println("create new upload lead branch")
-	test.Test1()
-
+	test.Test()
+	test.Tuan()
 }
